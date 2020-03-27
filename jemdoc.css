@@ -13,7 +13,8 @@ body {
 }
 */
 html {
-  background-color: #eeeeee; 
+  /*background-color: #eeeeee; */
+  background-color: #192b50;
 }
 
 body { 
@@ -75,7 +76,8 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #527bbd;
+	/*color: #527bbd;*/
+	color: #d8b33e;
 	text-decoration: none;
 }
 
