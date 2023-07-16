@@ -87,7 +87,7 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #022b6d;
+	color: #ffffff;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
@@ -297,14 +297,14 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #000070;
+	color: #ffffff;
 }
 
 span.statement {
 	color: #008800;
 }
 span.builtin {
-	color: #000088;
+	color: #ffffff;
 }
 span.special {
 	color: #990000;
